@@ -5,7 +5,7 @@ NUPT 研究生项目报告：穷人深度学习摄像头.
 
 Graduate Project Title: Poor Man Deep Learning Camera
 
-Artificial intelligence (AI) and Block chain are already affecting our lives in many ways. 
+Artificial intelligence (AI) and Block Chain are already affecting our lives in many ways. 
 I envision that they are forming a new virtual world, the robot world.
 After about 10 years, AI-equipped robotic entities will use bitcoin to trade with the human world
 and also use bitcoin to trade with other robotic entities.
